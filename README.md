@@ -1,7 +1,3 @@
-# SKILL-DEVELOPMENT-TRAINING-FOR-UNEMPLOYED-YOUTHS
-
-//POBLEM STATMENT FROM HACATHON 2022//
-
 "Challenges has been faced in lntroduction of Govt aligned Skill Development courses in our training calendar.
 Better Handholding platform is necessary. On the communication front: Reaching out to the unemployed youths or candidates 
 (Either who have been trained or future candidates) has been an humungous task always as there has been always a challenge of maintaining a secured & robust database. 
