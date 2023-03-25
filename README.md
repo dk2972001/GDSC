@@ -15,8 +15,13 @@ I portrait to solve the problem.
 FEATURES- whattsapp msg api , video stream(using agora)
 
 Step-1 create virtual machine //python -m venv name or virtualenv name 
+
 Step-2 activate virtual machine // cd virtualmachine_name / cd script/ activator.bat 
+
 Step-3 install pip install django 
+
 Step-4 pip install mysql Step-5 Jazz Min // This is package for admin panel design 
+
 Step-6 after the step2 come out activate path install all the thing in virtual machine 
+
 Step-7 python manage.py runserver
